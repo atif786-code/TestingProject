@@ -1,1 +1,10 @@
-Hello Guys
+1 : git init : Initilis the git here okay (pehli bar karna hai )
+2: git checkout -b "branch name"
+ branch Name : Kuch Bhi ho sakta hai 
+
+3 : git add . (. ka matlab sara file upload karna thik )
+4 : git commit -m "message kuch bhi"
+	messga : kuch bhi likh sakte ho
+
+5 : git remote add origin url
+6 : git push origin branch_ka_name 
